@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Cycle",
+    "supabase_url": "https://feanjjmfmjsmedhttoru.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep-alive"
+  }
+]
